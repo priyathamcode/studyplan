@@ -14,7 +14,7 @@ gemini = genai.GenerativeModel("gemini-pro")  # Initialize the model
 
 
 # Streamlit UI
-st.title("📚 Study Planner Chatbot")
+st.title("📚 StudBud Study Planning AI")
 st.write("Get a personalized study plan based on your preferences!")
 
 # User Inputs
